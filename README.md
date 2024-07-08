@@ -19,12 +19,12 @@
 docker-compose up -d
 ```
 
-6. Ejecutar SEED
-```
-http://localhost:3000/api/seed
-```
-
-7. Levantar con el comando 
+6. Levantar con el comando 
 ```
 npm run start:dev
+```
+
+7. Ejecutar SEED
+```
+http://localhost:3000/api/seed
 ```
